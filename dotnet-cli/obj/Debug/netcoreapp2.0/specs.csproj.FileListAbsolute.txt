@@ -1,0 +1,10 @@
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/bin/Debug/netcoreapp2.0/specs.deps.json
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/bin/Debug/netcoreapp2.0/specs.runtimeconfig.json
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/bin/Debug/netcoreapp2.0/specs.runtimeconfig.dev.json
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/bin/Debug/netcoreapp2.0/specs.dll
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/bin/Debug/netcoreapp2.0/specs.pdb
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/obj/Debug/netcoreapp2.0/specs.csproj.CoreCompileInputs.cache
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/obj/Debug/netcoreapp2.0/specs.AssemblyInfoInputs.cache
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/obj/Debug/netcoreapp2.0/specs.AssemblyInfo.cs
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/obj/Debug/netcoreapp2.0/specs.dll
+/Users/srddrag/Documents/SharedData/Dev/storyteller/quickstarts/dotnet-cli/obj/Debug/netcoreapp2.0/specs.pdb
